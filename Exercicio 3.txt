@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+    int main(void)
+    {
+        int fat, n=10, i;
+        fat = 1;
+        for (i = 1; i <= n; i = i + 1){
+            fat = fat * i;
+        printf("%d\n", fat);
+    }
+       return 0;
+   }
+
+
