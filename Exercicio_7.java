@@ -11,7 +11,7 @@ class Exercicio_7
             System.out.println("Aprovado!"); 
         }
         else 
-            System.out.println("Reprovado.";)
+            System.out.println("Reprovado.");
         }
         
     }
