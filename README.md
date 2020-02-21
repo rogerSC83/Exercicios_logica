@@ -12,3 +12,6 @@ int main()
     for (int i = 1; i <= 1000; i++)
     resultado += i;
     printf("%d ", resultado);
+    Exercicio_fibonacci
+    calcular a sequencia de fibonacci até 100
+    
