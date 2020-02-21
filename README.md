@@ -15,3 +15,6 @@ int main()
     Exercicio_fibonacci
     calcular a sequencia de fibonacci até 100
     
+    Calcular a media de um aluno
+    
+    
