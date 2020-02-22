@@ -17,4 +17,7 @@ int main()
     
     Calcular a media de um aluno
     
+    exercicio de operações
+    
+    
     
