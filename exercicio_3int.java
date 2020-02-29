@@ -13,6 +13,7 @@ class exercicio_3int{
         System.out.println("Digite o segundo numero: ");
         int numero2 = entrada.nextInt();
         System.out.println(" o numero 2 eh " + numero2);
+        System.out.println("Digite o terceiro numero: ");
         int numero3 = entrada.nextInt();
         System.out.println(" o numero 3 eh " + numero3);
         soma = numero1 + numero2 + numero3;
@@ -39,7 +40,8 @@ class exercicio_3int{
         System.out.println("O menor numero eh " + numero3);
         else
         System.out.println("O menor numero eh " + aux);
-
+        if (( numero1 == numero2) && ( numero2 == numero3))
+        System.out.println("Todos os numeros sao iguais");
         
 }
 }
